@@ -1,6 +1,8 @@
 # `pskfyi.zsh-theme`
 
-Minimal, spacious theme based on the oh-my-zsh theme 'lambda'. Themed for Ubuntu but easily tweaked.
+Minimal, spacious theme based on the `oh-my-zsh` theme ['lambda'](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#lambda).
+
+Themed for Ubuntu but easily tweaked.
 
 ![](/preview.png)
 
@@ -34,6 +36,6 @@ Thanks to [`oh-my-posh`](https://ohmyposh.dev/) for introducing me to NerdFonts.
 
 Thanks to [NerdFonts](https://www.nerdfonts.com/) for making everything fancy.
 
-Thanks to @yujinyuz for [this blog post](https://dev.to/yujinyuz/custom-colors-in-oh-my-zsh-themes-4h13) for explaining custom color codes.
+Thanks to [@yujinyuz](https://github.com/yujinyuz) for [this blog post](https://dev.to/yujinyuz/custom-colors-in-oh-my-zsh-themes-4h13) for explaining custom color codes.
 
 

@@ -1,8 +1,11 @@
 # Based on the oh-my-zsh theme 'lambda'.
-# - modifies the prompt icon to be an orange ubuntu symbol,
-# - adds newlines before and after prompt move
-# - default prompt icon to the end
-# - modify colors
+# - modifies the prompt icon to be an orange Ubuntu symbol
+# - adds newlines before each prompt
+# - places the prompt icon ("powerline") on its own line
+# - slightly modified colors
+#
+# NOTE: This theme expects that you have a Nerd Font installed.
+# See https://www.nerdfonts.com/font-downloads
 
 # Icons from NerdFonts
 #   \Ue725 - the git branch icon
